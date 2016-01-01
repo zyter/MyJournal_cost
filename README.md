@@ -1,2 +1,2 @@
-# MyJournal_cost-Project
+# MyJournal_cost
 Тест
