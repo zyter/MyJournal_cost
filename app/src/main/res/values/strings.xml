@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MyJournal_cost Beta</string>
     <string name="search_title">Search</string>
+
+    <string name="menu_item_currency">Основная валюта</string>
+
+    <string name="view_navigation_opan">Открыть</string>
+    <string name="view_navigation_close">Закрыть</string>
 </resources>
